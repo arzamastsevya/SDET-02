@@ -1,1 +1,1 @@
-Run test001.py test002.py
+Run test_001.py test_002.py
